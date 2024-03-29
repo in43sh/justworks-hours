@@ -5,3 +5,5 @@ node_modules/
 /playwright/.cache/
 
 userData/cookies.ts
+userData/cookies.json
+.env
